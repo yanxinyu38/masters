@@ -5,7 +5,11 @@ public class HelloWorld {
         System.out.println("hello world");
 		System.out.println("I am king");
 		System.out.println("I am your father");
+
 		System.out.println("在master分支下输出一条信息")
+
+		System.out.println("在develop分支下添加输出语句")
+
     }
 
 }
